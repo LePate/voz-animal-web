@@ -4,7 +4,7 @@
 // ============================================
 
 const CONFIG = {
-  API_URL: 'http://localhost:3000/api',
+  API_URL: 'https://voz-animal-backend-production.up.railway.app/api',
   APP_NAME: 'Voz Animal',
   VERSION: '1.0.0'
 };
