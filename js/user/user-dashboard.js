@@ -1,7 +1,7 @@
 // ===================================
 // CONFIGURACIÓN Y VARIABLES GLOBALES
 // ===================================
-const API_URL = 'http://localhost:3000/api';
+const API_URL = "https://voz-animal-backend-production.up.railway.app/api";
 let currentUser = null;
 let authToken = null;
 let allAnimales = [];
